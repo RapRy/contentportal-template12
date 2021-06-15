@@ -1,0 +1,358 @@
+{"Food" : [
+    {
+        "name" : "Thai Fried Prawn & Pineapple Rice",
+        "image" : "1ThaiFried",
+        "rate" : 4,
+        "description" : "This quick, low calorie supper is perfect for a busy weeknight. Cook your rice in advance to get ahead - run it under cold water to chill quickly, then freeze in a food bag for up to one month. Heat the oil in a wok or non-stick frying pan and fry the spring onion whites for 2 mins until softened. Stir in the pepper for 1 min, followed by the pineapple for 1 min more, then stir in the green curry paste and soy sauce. Add the rice, stir-frying until piping hot, then push the rice to one side of the pan and scramble the eggs on the other side. Stir the peas, bamboo shoots and prawns into the rice and eggs, then heat through for 2 mins until the prawns are hot and the peas tender. Finally, stir in the spring onion greens, lime juice and coriander, if using. Spoon into bowls and serve with extra lime wedges and soy sauce." 
+    },
+    {
+        "name" : "Asparagus & New Potato Frittata",
+        "image" : "2Asparagus",
+        "rate" : 5,
+        "description" : "A simple, low-calorie spring main that uses the season's finest ingredients and is ready in just 20 minutes. Heat the grill to high. Put the potatoes in a pan of cold salted water and bring to the boil. Once boiling, cook for 4-5 mins until nearly tender, then add the asparagus for a final 1 min. Drain. Meanwhile, heat the oil in an ovenproof frying pan and add the onion. Cook for about 8 mins until softened. Mix the eggs with half the cheese in a jug and season well. Pour over the onion in the pan, then scatter over the asparagus and potatoes. Top with the remaining cheese and put under the grill for 5 mins or until golden and cooked through. Cut into wedges and serve from the pan with salad." 
+    },
+    {
+        "name" : "Simple Fish Stew",
+        "image" : "3Simplefish",
+        "rate" : 5,
+        "description" : "This quick and healthy one-pot is packed with white fish fillets, king prawns, a rich tomato sauce and enough veg for 3 of your 5 a day. Heat the oil in a large pan, add the fennel seeds, carrots, celery and garlic, and cook for 5 mins until starting to soften. Tip in the leeks, tomatoes and stock, season and bring to the boil, then cover and simmer for 15-20 mins until the vegetables are tender and the sauce has thickened and reduced slightly. Add the fish, scatter over the prawns and cook for 2 mins more until lightly cooked. Ladle into bowls and serve with a spoon." 
+    },
+    {
+        "name" : "Greek Courgetti Salad",
+        "image" : "4Greekcourgetti",
+        "rate" : 4.5,
+        "description" : "Grab a pack of courgetti or spiralize your own for a simple vegetarian supper. Slice the cucumber on the diagonal and crumble the feta. Combine all the ingredients in a bowl with a little extra virgin olive oil and some seasoning, then divide between plates." 
+    },
+    {
+        "name" : "Asian Pulled Chicken Salad",
+        "image" : "5Asian pulledchicken",
+        "rate" : 5,
+        "description" : "Pull apart a ready-roasted chicken to whip up this healthy, vibrant, low-calorie dish in just 20 minutes. Combine the dressing ingredients in a small bowl and set aside. Remove all the meat from the chicken, shred into large chunks and pop in a large bowl. Add the cabbage, carrots, spring onions, chillies and half the coriander. Toss together with the dressing and pile onto a serving plate, then scatter over the remaining coriander and peanuts." 
+    },
+    {
+        "name" : "Spiced Black Bean & Chicken Soup with Kale",
+        "image" : "6Spicedblack beanchicken",
+        "rate" : 5,
+        "description" : "Use up leftover roast or ready-cooked chicken in this healthy and warming South-American style soup, spiced up with cumin and chilli. Heat the oil in a large saucepan, add the garlic, coriander stalks and lime zest, then fry for 2 mins until fragrant. Stir in the cumin and chilli flakes, fry for 1 min more, then tip in the tomatoes, beans and stock. Bring to the boil, then crush the beans against the bottom of the pan a few times using a potato masher. This will thicken the soup a little. Stir the kale into the soup, simmer for 5 mins or until tender, then tear in the chicken and let it heat through. Season to taste with salt, pepper and juice from half the lime, then serve in shallow bowls, scattered with the feta and a few coriander leaves. Serve the remaining lime in wedges for the table, with the toasted tortillas on the side. The longer you leave the chicken in the pan, the thicker the soup will become, so add a splash more stock if you can’t serve the soup straight away." 
+    },
+    {
+        "name" : "One-Pan Egg & Veg Brunch",
+        "image" : "7One0paneggvegbrunch",
+        "rate" : 4.5,
+        "description" : "With courgette, peppers and eggs, this vegetarian dish is a filling, healthy breakfast for all the family – kids will enjoy dipping toast into soft egg yolk. Boil the new potatoes for 8 mins, then drain. Heat the oil and butter in a large non-stick frying pan, then add the courgette, peppers, potatoes and a little salt and pepper. Cook for 10 mins, stirring from time to time until everything is starting to brown. Add the spring onions, garlic and thyme and cook for 2 mins more. Make four spaces in the pan and crack in the eggs. Cover with foil or a lid and cook for around 4 mins, or until the eggs are cooked (with the yolks soft for dipping into). Sprinkle with more thyme leaves and ground black pepper if you like. Serve with toast." 
+    },
+    {
+        "name" : "Mushroom Brunch",
+        "image" : "8Mushroombrunch",
+        "rate" : 5,
+        "description" : "You only need mushrooms, eggs, kale and garlic to cook this tasty one pan brunch. It's comforting yet healthy, low-calorie and gluten-free too. Slice the mushrooms and crush the garlic clove. Heat the olive oil in a large non-stick frying pan, then fry the garlic over a low heat for 1 min. Add the mushrooms and cook until soft. Then, add the kale. If the kale won’t all fit in the pan, add half and stir until wilted, then add the rest. Once all the kale is wilted, season. Now crack in the eggs and keep them cooking gently for 2-3 mins. Then, cover with the lid to for a further 2-3 mins or until the eggs are cooked to your liking. Serve with bread." 
+    },
+    {
+        "name" : "Chicken & Vegetable Curry",
+        "image" : "9Chickenvegetablecurry",
+        "rate" : 4.5,
+        "description" : "This Indian feast has a healthy vegetable count and is a really simple everyday supper. Mix together 75g of the yogurt with 1 tbsp of the spice mix and some seasoning. Add the chicken and leave to marinate for at least 15 mins or up to overnight in the fridge. Heat the remaining spices, the onion and a good splash of water, and soften for 5 mins, stirring often. Tip in the pepper chunks and passata, and simmer while you cook the chicken. Heat the grill to High, remove the chicken from the marinade and shake off any excess. Grill under a high heat until starting to char at the edges. Tip the rice and peas into a pan with a splash of water and heat through. Stir most of the coriander into the sauce. Serve the rice alongside the chicken and sauce, scattered with the remaining coriander and the remaining yogurt on the side." 
+    },
+    {
+        "name" : "Smoked Mackerel with Orange, Watercress & Potato Salad",
+        "image" : "10Smokedmackelwithorangewatercress",
+        "rate" : 5,
+        "description" : "This zesty springtime dish is perfect for lunch or a light supper. Whisk together the sherry or wine vinegar, mustard and oil with some seasoning. Boil the potatoes in salted water until easily pierced with a knife, about 10 mins. Toss in a bowl with threequarters of the dressing and onion slices, then leave to cool a little. Cut the peel and pith from the orange, then cut into thick slices. Toss the watercress into the salad, then divide between 2 plates and top with the oranges, fish and the remaining dressing."
+    },
+    {
+        "name" : "Crunchy Detox Salad",
+        "image" : "11Crunchydetoxsalad",
+        "rate" : 4,
+        "description" : "This low-fat salad is full of vibrant colours, textures and flavours. Makes for a great lunchbox or light supper. Blanch the broccoli in a pan of boiling water for 1 min. Drain and quickly cool under cold running water, then pat dry with kitchen paper. Put in a bowl with the apricots, broccoli, red cabbage, chickpeas and sunflower seeds. Put the onion and ginger in a bowl with the orange juice, vinegar and oil. Mix well. Leave for 5 mins to soften the onion, then add to the salad and thoroughly toss everything together."
+    },
+    {
+        "name" : "Mumbai Potato Wraps with Minted Yogurt Relish",
+        "image" : "12Mumbaipotatowraps",
+        "rate" : 5,
+        "description" : "This help-yourself veggie supper is full of fresh flavours and low-fat too. Heat the sunflower oil in a large saucepan and fry the onion for 6-8 mins until golden and soft. Stir in 1½ tbsp curry powder, cook for 30 secs, then add the tomatoes and seasoning. Simmer, uncovered, for 15 mins. Meanwhile, add the potatoes and ½ tbsp curry powder to a pan of boiling salted water. Cook for 6-8 mins until just tender. Drain, reserving 100ml of the liquid. Add the drained potatoes and reserved liquid to the tomato sauce along with the mango chutney. Heat through. Meanwhile, mix together the yogurt and mint sauce, and warm the chapattis following pack instructions. To serve, spoon some of the potatoes onto a chapatti and top with a few sprigs of coriander. Drizzle with the minted yogurt relish, adding extra mango chutney if you wish, then roll up and eat."
+    },
+    {
+        "name" : "Overnight Oats",
+        "image" : "13Overnightoats",
+        "rate" : 4.5,
+        "description" : "Adapt this recipe for easy overnight oats to suit your tastes. You can add dried fruit, seeds and nuts, grated apple or pear, or chopped tropical fruits. The night before serving, stir the cinnamon and 100ml water (or milk) into your oats (50g) with a pinch of salt. The next day, loosen with a little more water (or milk) if needed. Top with the yogurt (2tbsp), berries (50g), a drizzle of honey and the nut butter."
+    },
+    {
+        "name" : "Fruit & Nut Breakfast Bowl",
+        "image" : "14Fruitnutbreakfastbowl",
+        "rate" : 5,
+        "description" : "Top cheap and healthy porridge oats with chopped fresh oranges, Greek yogurt and a sprinkling of dried fruit, nuts and seeds. Put the oats (6tbsp) in a non-stick pan with 400ml water and cook over the heat, stirring occasionally for about 4 mins until thickened. Meanwhile, cut the peel and pith from the oranges(2 oranges) then slice them in half, cutting down either side, as closely as you can, to where the stalk would be as this will remove quite a tough section of the membrane. Now just chop the oranges. Pour the porridge into bowls, spoon on the yogurt then pile on the oranges and the fruit, nut and seed mixture (60g pot raisins, nut, goji berries and seeds)."
+    },
+    {
+        "name" : "Summer Porridge",
+        "image" : "15Summerporridge",
+        "rate" : 4,
+        "description" : "A healthy, summery vegan porridge with jumbo oats and bright pink pomegranate seeds. In a blender, blitz the milk (300ml almond milk), blueberries (200g) and maple syrup (½ tbsp.) until the milk turns purple. Put the chia (2 tbsp chia seeds) and oats (100g jumbo oats) in a mixing bowl, pour in the blueberry milk and stir very well. Leave to soak for 5 mins, stirring occasionally, until the liquid has absorbed, and the oats and chia thicken and swell. Stir again, then divide between two bowls. Arrange the fruit (1 kiwi fruit cut into slices) on top, then sprinkle over the mixed seeds (2 tsp mixed seeds). Will keep in the fridge for 1 day. Add the toppings just before serving."
+    },
+    {
+        "name" : "Salmon Sushi Salad",
+        "image" : "16Salmonsushisalad",
+        "rate" : 5,
+        "description" : "A light lunch or dinner, this salmon salad is a homemade version of your favourite sushi platter, with edamame beans, avocado and pomegranate seeds. Rinse the sushi rice (100g sushi rice) really well and put in a small saucepan covered with 200ml cold water. Bring to the boil, then simmer for 10 mins with the lid on. Remove from the heat and keep the lid on for 15 mins before transferring to a serving bowl. Meanwhile, pour boiling water over the edamame and leave to defrost until the rice is cooked. To make the dressing, combine all the ingredients, then set aside. Heat the sesame oil in a non-stick pan and add the nori. Cook for 1-2 mins on a medium heat until crisp. To assemble the salad, drain the edamame, then tip onto the rice along with the pomegranate seeds and salmon. (50g smoked salmon, cut into bite-sized slices). Fan out the avocado slices on top and sprinkle over the black sesame seeds (1 tsp black sesame seeds). Drizzle over the dressing and top with slices of sushi ginger, if you like."
+    },
+    {
+        "name" : "Walnut & Almond Muesli with Grated Apple",
+        "image" : "17Walnutalmond",
+        "rate" : 4.5,
+        "description" : "Prepare your own delicious homemade cereal that is nutritionally-dense, naturally sweetened and super satisfying thanks to the healthy fats from nuts and seeds. Put the porridge oats (85g porridge oats) in a saucepan and heat gently, stirring frequently until they’re just starting to toast. Turn off the heat, then add all of the nuts (15g walnut/almond), pumpkin seeds(15g), and cinnamon (1tsp), then stir everything together well. Tip into a large bowl, stir to help it cool, then add the raisins (80g) and puffed wheat (15g) and toss together until well mixed. Tip half into a jar or airtight container and save for another day – it will keep at room temperature. Serve the rest in two bowls, grate over 2 apples and pour over some cold milk (use nut milk if you’re vegan) at the table. Save the other apples for the remaining muesli."
+    },
+    {
+        "name" : "Warming Chocolate & Banana Porridge",
+        "image" : "18Warmingchocoateporridge",
+        "rate" : 5,
+        "description" : "Cocoa and vanilla add a luxurious flavor to this healthy breakfast, naturally sweetened with banana. Soak the oats overnight for a super creamy texture. Put the oats, cocoa and vanilla in a large bowl and pour over 800ml – 1 litre cold water (depending how thick you like your porridge). Cover the bowl and leave to soak overnight. The next morning, tip the contents into a saucepan with the chopped banana (4 bananas, 2 chopped). Cook over a medium heat for 5 mins, stirring frequently, until the oats are cooked. Put half of the mixture in the fridge for the next day. Spoon the rest into two bowls, swirl in 1 pot yogurt and slice over a banana (save the other pot and banana for the next morning). Warm through with a splash of milk to reheat."
+    },
+    {
+        "name" : "Quinoa Porridge",
+        "image" : "19Quinoaporridge",
+        "rate" : 3.5,
+        "description" : "Supercharge your morning with high-protein quinoa and omega-3 rich chia seeds for a creamy breakfast bowl topped with seasonal fruit. Activate the quinoa by soaking overnight in cold water. The next day, drain and rinse the quinoa (175g quinoa) through a fine sieve (the grains are so small that they will wash through a coarse one). Tip the quinoa into a pan and add the vanilla (½ vanilla pod, split and seeds scraped out, or ½ tsp vanilla extract), creamed coconut (15g creamed coconut) and 600ml water. Cover the pan and simmer for 20 mins. Stir in the chia (4tbsp chia seeds) with another 300ml water and cook gently for 3 mins more. Stir in the pot of coconut yogurt (125g coconut yogurt). Spoon half the porridge into a bowl for another day. Will keep for 2 days covered in the fridge. Serve the remaining porridge topped with another pot of yogurt (125g pot coconut yogurt), the berries and almonds (280g mixed summer berries, such as strawberries, raspberries and blueberries and 2tbsp flaked almonds), if you like. To have the porridge another day, tip into a pan and reheat gently, with milk or water. Top with fruit - for instance, orange slices and pomegranate seeds."
+    },
+    {
+        "name" : "Baked Banana Porridge",
+        "image" : "20akedbananaporridge",
+        "rate" : 4.5,
+        "description" : "Start the day right with this healthy baked banana porridge containing walnuts, banana and cinnamon. It's a filling breakfast that will keep you going until lunch. Heat oven to 190C/170C fan/gas 5. Mash up one banana half (2 small bananas, halved lengthways), then mix it with the oats (100g jumbo porridge oats), cinnamon (¼ tsp cinnamon), milk (150ml milk of your choice, plus extra to serve), 300ml water and a pinch of salt, and pour into a baking dish. Top with the remaining banana halves and scatter over the walnuts (4 walnuts, roughly chopped). Bake for 20-25 mins until the oats are creamy and have absorbed most of the liquid."
+    },
+    {
+        "name" : "Poached Eggs with Smashed Avocado & Tomatoes",
+        "image" : "21Poached",
+        "rate" : 5,
+        "description" : "Keep yourself full until lunchtime with this healthy breakfast boost. Delicious avocado serves as a butter alternative and goes well with a runny poached egg. Heat a non-stick frying pan, very lightly brush the cut surface of the tomatoes (2 tomatoes, halved) with a little oil (½ tsp rapeseed oil), then cook them, cut-side down, in the pan until they have softened and slightly caramelised. Meanwhile, heat a pan of water, carefully break in the eggs (2 eggs) and leave to poach for 1-2 mins until the whites are firm but the yolks are still runny. Halve and stone the avocado (1 small ripe avocado), then scoop out the flesh and smash onto the bread (2 slices seeded wholemeal soda bread (see goes well with). Add the eggs, grind over black pepper and add a handful of rocket (2 handfuls rockets) to each portion. Serve the tomatoes on the side."
+    }
+],
+"Sport" : [
+    {
+        "name" : "Stick to It for 2 Weeks",
+        "image" : "1Stick",
+        "rate" : 4.5,
+        "description" : "If motivation is your hang-up, change your exercise routine every 14 days. A University of Florida study discovered that people who modified their workouts twice a month were more likely than to stick to their plans compared to those who changed their regimens whenever they wanted to. Boredom didn’t appear to be a factor; it seems people simply enjoyed the variety more." 
+    },
+    {
+        "name" : "Bring Up Your Rear",
+        "image" : "2Bring",
+        "rate" : 5,
+        "description" : "For a strong backside that will turn heads wherever you go, Marta Montenegro, a Miami-based exercise physiologist and strength and conditioning coach, recommends completing 100 kettlebell swings nonstop with a moderate weight at the end of a legs workout. [Tweet this tip!] If you can’t access a kettlebell, do deadlifts and hip-thrusters instead. \"Women tend to overemphasize the quadriceps even when they think they are working the butt. With these two exercises, you'll have no problem engaging the glutes and posterior muscles of the legs,\" Montenegro says." 
+    },
+    {
+        "name" : "Never Skip the Most Important Meal",
+        "image" : "3Neverskipyourmeal",
+        "rate" : 3.5,
+        "description" : "For once we're not talking about breakfast but rather the recovery meal after your workout. \"So many women skip post-exercise nutrition because they don’t want to 'undo the calories they just burned,'\" says Amanda Carlson-Phillips, vice president of nutrition and research for Athletes’ Performance and Core Performance. \"But getting a combination of 10 to 15 grams of protein and 20 to 30 grams of carbohydrates within 30 minutes of your workout will help to refuel your body, promote muscle recovery, amp up your energy, and build a leaner physique.\"" 
+    },
+    {
+        "name" : "Mind Your Muscle",
+        "image" : "4MindYourMuscle",
+        "rate" : 5,
+        "description" : "It's easy to get lost in a killer playlist or Friends rerun on the TV attached to the elliptical, but mindless exercise makes all your hard work forgettable—and you can forget about seeing results too. \"There is a huge difference between going through the motions of an exercise and truly thinking, feeling, and engaging the key muscles,\" says Kira Stokes, master instructor at the New York City location of indoor cycling studio Revolve. \"Be conscious of and enjoy the sensation of your muscles contracting and the feelings of growing stronger and more powerful with each rep.\"" 
+    },
+    {
+        "name" : "Be Less Specific",
+        "image" : "5BeLessSpecific",
+        "rate" : 5,
+        "description" : "Just like trying to find a guy who meets certain exact standards, trying to reach an exact weight is a lofty—and often unattainable—goal. Having a range, such as losing five to 10 pounds, may lead to a more successful outcome than if you aim to lose precisely 8 pounds in four weeks, according to a study published in the Journal of Consumer Research. Flexible goals seem more feasible, which in turn boosts your sense of accomplishment, encouraging you to stay driven, the study authors say." 
+    },
+    {
+        "name" : "Step It Up",
+        "image" : "6StepItUp",
+        "rate" : 4,
+        "description" : "Instinct may tell you to slow down when running in wintery conditions, but the secret to not slipping is actually to speed up and shorten your stride. Aim to have each foot strike the ground 90 times per minute, says Terry Chiplin, owner of Active at Altitude, a Colorado-based facility for endurance athletes. This high cadence helps ensure that each foot lands beneath the center of your weight rather than ahead of it, which can throw off your balance on slick terrain." 
+    },
+    {
+        "name" : "Hang Tight",
+        "image" : "7HangTight",
+        "rate" : 5,
+        "description" : "Not being able to do a pull-up doesn’t mean you shouldn’t step up to the bar. Simply hanging on for as long as possible can improve your upper-body strength, Montenegro says. Concentrate on keeping your body as still as possible, and you’ll naturally recruit your abs, hips, and lower back in addition to your arms, she explains, or slowly move your legs in circles or up and down to further engage your abs." 
+    },
+    {
+        "name" : "Not So Fast",
+        "image" : "8NotSoFast",
+        "rate" : 4.5,
+        "description" : "Before you start a juice cleanse diet, know that drastically restricting your caloric intake to drop pounds may backfire: In a 2010 study, women placed on a 1,200-calorie diet for three weeks had elevated levels of cortisol, our primary stress hormone. [Tweet this fact!] Chronic stress has been associated with an increased risk of weight gain as well as coronary heart disease, hypertension, diabetes, cancer, and impaired immune functioning." 
+    },
+    {
+        "name" : "Bust Out Your Bikini",
+        "image" : "9BustOutYourBikini",
+        "rate" : 5,
+        "description" : "Packing your two-piece away for winter means you won't think about how you'll look in it until about April. Avoid any potential \"how did my butt get this big?!\" panics come spring by keeping your swimsuit handy and putting it on every so often to make sure you like what you see, says Tanya Becker, co-founder of the Physique 57 barre program. You can also toss it on when you're tempted to overindulge, she adds. \"There’s no better way to keep yourself from having that after-dinner cookie or slice of cake.\"" 
+    },
+    {
+        "name" : "Pep Up Your Run",
+        "image" : "10PepUpYourRun",
+        "rate" : 5,
+        "description" : "Sweet chili peppers may not be a winter food, but continue eating them in your burritos, stir-fries, and soups, and you may burn more fat during your outdoor cold-weather runs. These not-hot veggies contain chemicals called capsinoids, which are similar to the capsaicin found in hot peppers. Combine capsinoids with 63-degree or cooler temps, and you increase the amount and activity of brown fat cells—those that burn energy—and give your metabolism an extra boost, according to a study published in the Journal of Clinical Investigation." 
+    },
+    {
+        "name" : "Never Do the Same Workout",
+        "image" : "11NeverDothe",
+        "rate" : 4.5,
+        "description" : "\"The reason most people don't see changes isn't because they don't work hard—it's because they don't make their workouts harder,\" says Adam Bornstein, founder of Born Fitness. His suggestion: Create a challenge every time you exercise. \"Use a little more weight, rest five to 10 seconds less between sets, add a few more reps, or do another set. Incorporating these small variations into your routine is a recipe for change,\" he says." 
+    },
+    {
+        "name" : "Freshen Your Breath and Your Muscles",
+        "image" : "12FreshenYourBreathandYourMuscles",
+        "rate" : 5,
+        "description" : "Consider including peppermint in your pre-workout snack or drink. In a small study published in theJournal of the International Society of Sports Nutrition, men drank 2 cups water with 0.05 milliliters (basically, a drop) peppermint oil mixed in and then ran on a treadmill to test their stamina and power. The mint appeared to help relax muscles, boost oxygen to muscles and the brain, and elevate pain threshold, leading to improved overall performance." 
+    },
+    {
+        "name" : "Go 2-for-1",
+        "image" : "13Go2-for-1",
+        "rate" : 5,
+        "description" : "When you do high-intensity interval training (and if you’re not, you should be!), follow a 2:1 work-to-rest ratio, such as sprinting one minute followed by 30 seconds of recovery. [Tweet this secret!] According to several studies, the most recent out of Bowling Green State University, this formula maximizes your workout results. The BGSU researchers also say to trust your body: Participants in the study set their pace for both running and recovery according to how they felt, and by doing so women worked at a higher percentage of their maximum heart rate and maximum oxygen consumption than the men did."
+    },
+    {
+        "name" : "Be True to Form",
+        "image" : "14BeTruetoForm",
+        "rate" : 4.5,
+        "description" : "It doesn't matter how many pushups you can do in a minute if you're not doing a single one correctly. \"There is no point in performing any exercise without proper form,\" says Stokes, who recommends thinking in terms of progression: Perfect your technique, then later add weight and/or speed. This is especially important if your workout calls for performing \"as many reps as possible\" during a set amount of time. Choose quality over quantity, and you can stay injury-free."
+    },
+    {
+        "name" : "One Day at a Time",
+        "image" : "15OneDayataTime",
+        "rate" : 5,
+        "description" : "Long-term goals are imperative, but they can make you feel overwhelmed or discouraged at times. Instead of thinking about how many dress sizes smaller you want to be in four months, focus on small everyday victories, suggests Michael Snader,BodyAware specialist and nutritionist at The BodyHoliday, a health and wellness resort in St. Lucia. \"For example, today you are going to eat breakfast, fit in a workout, and drink more water,\" he says. Stay focused on the present, and your future will be successful."
+    },
+    {
+        "name" : "Find a Fit Friend",
+        "image" : "16FindaFitriend",
+        "rate" : 3.5,
+        "description" : "A workout partner not only keeps you accountable, she also may help you clock more time at the gym and torch more fat. A British survey of 1,000 women found that those who exercise with others tend to train six minutes longer and burn an extra 41 calories per session compared to solo fitness fanatics. [Tweet this fact!] Women with Bikram buddies and CrossFit comrades said they push themselves harder and are more motivated than when they hit the gym alone."
+    },
+    {
+        "name" : "Dig Deeper",
+        "image" : "17DigDeeper",
+        "rate" : 5,
+        "description" : "It takes a lot of discipline to turn down a cupcake or roll out of your warm bed for a cold morning run. To make staying on track easier, it's important to make a real connection with your motivation, says Tara Gidus, R.D., co-host of Emotional Mojo. So think less about fitting into your skinny jeans or spring break bikini and more about emotional ties to the people you love. “Your relationships will grow stronger when you are physically healthy and taking care of yourself,” she says."
+    },
+    {
+        "name" : "Learn the Ropes",
+        "image" : "18LearntheRopes",
+        "rate" : 4,
+        "description" : "The best training tool you're not using: a jump rope. \"It may seem a little juvenile until you think of all the hot-bodied boxing pros who jump rope every single day,\" says Landon LaRue, a CrossFit level-one trainer at Reebok CrossFit LAB in L.A. Not only is it inexpensive, portable, and easy to use almost anywhere, you’ll burn about 200 calories in 20 minutes and boost your cardiovascular health while toning, he adds."
+    },
+    {
+        "name" : "Heed Your Hunger",
+        "image" : "19HeedYourHunger",
+        "rate" : 5,
+        "description" : "Give your body a little more credit: It tells you when you’re hungry—you may not be listening, though. Before chowing down because there’s only one slice of pie left or because the last guest arrived at the brunch, stop and check in with your stomach. \"If you’re not hungry, make yourself a small plate and sip on some tea or coffee while everyone else digs in,\" recommends Elle Penner, M.P.H., R.D., a MyFitnessPal expert. When your belly starts to finally grumble, food will be there."
+    },
+    {
+        "name" : "Take It Outside",
+        "image" : "20TakeItOutside",
+        "rate" : 5,
+        "description" : "A study by the National Institutes of Health that found people could burn up to 7 percent more calories in the cold. So if you're torching 268 calories during a half-hour indoor run at a 12-minute-mile pace, you may hoof off closer to 300 calories if you head outdoors."
+    },
+    {
+        "name" : "Ace Your Serving Sizes",
+        "image" : "21AceYourServing",
+        "rate" : 5,
+        "description" : "When dishing out dinner, put away the measuring cups and grab a standard size plate. \"If your food fits with no individual item touching another, you can be pretty confident that your portion sizes are appropriate,\" says Snader."
+    },
+    {
+        "name" : "Multi-Goal",
+        "image" : "22Multi-Goal",
+        "rate" : 4.5,
+        "description" : "Popular belief says if you really want to make a big change, focus on one new healthy habit at a time. But Stanford University School of Medicine researchers say working on your diet and fitness simultaneously may put the odds of reaching both goals more in your favor. They followed four groups of people: The first zoned in on their diets before adding exercise months later, the second did the opposite, the third focused on both at once, and the last made no changes. Those who doubled up were most likely to work out 150 minutes a week and get up to nine servings of fruits and veggies daily while keeping their calories from saturated fat at 10 percent or less of their total intake."
+    },
+    {
+        "name" : "Sweat to a Beat of Your Own",
+        "image" : "23SweattoaBeatofYourOwn",
+        "rate" : 5,
+        "description" : "Rocking out to your fave playlist helps you power through a grueling workout, and now research shows singing, humming, or whistling may be just as beneficial. [Tweet this tip!] A German and Belgian study found that making music—and not just listening to it—could impact exercise performance. People who worked out on machines designed to create music based on their efforts exerted more energy (and didn't even know it) compared to others who used traditional equipment. Sweating to your own tune may help make physical activities less exhausting, researchers say."
+    },
+    {
+        "name" : "Heart Your Trainer",
+        "image" : "24HeartYourTrainer",
+        "rate" : 4.5,
+        "description" : "Find an instructor who motivates you to get out the door or turn on a video—they will be your best advocate,” Becker says. If you look forward to seeing your favorite Pilates teacher, you'll be more likely to hit the studio regularly. Same goes if you love a trainer's energy in their DVD or online videos."
+    },
+    {
+        "name" : "Seek Out Text Support",
+        "image" : "25SeekOutTextSupport",
+        "rate" : 5,
+        "description" : "If you thought texting changed your love life, imagine what it could do for your waistline. When people received motivational text messages promoting exercise and healthy behaviors twice a week (i.e., “Keep in the fridge a Ziploc with washed and precut vegetables 4 quick snack. Add 1 string cheese 4 proteins”), they lost an average of about 3 percent of their body weight in 12 weeks. Participants in the Virginia Commonwealth University study also showed an improvement in eating behaviors, exercise, and nutrition self-efficacy, and reported that the texts helped them adopt these new habits. Find health-minded friends and message each other reminders, or program your phone to send yourself healthy eating tips."
+    },
+    {
+        "name" : "Put on More Weight",
+        "image" : "26PutonMoeWeight",
+        "rate" : 5,
+        "description" : "You know strength training is the best way to trim down, tone up, and get into “I love my body” shape. But always reaching for the 10-pound dumbbells isn’t going to help you. “Add two or three compound barbell lifts (such as a squat, deadlift, or press) to your weekly training schedule and run a linear progression, increasing the weight used on each lift by two to five pounds a week,” says Noah Abbott, a coach at CrossFit South Brooklyn. Perform three to five sets of three to five reps, and you’ll boost strength, not bulk. “The short, intense training will not place your muscles under long periods of muscle fiber stimulation, which corresponds with muscle growth,” Abbott explains."
+    },
+    {
+        "name" : "Be Here. Now.",
+        "image" : "27BeHereNow",
+        "rate" : 5,
+        "description" : "Before you convince yourself that you’re too busy to mediate, consider this: \"Adding mediation to your daily fitness routine can be a crucial part of body transformation,\" says Mark Fisher, founder of Mark Fisher Fitness in NYC. Find five to 10 minutes once or twice a day to focus on your breath, he suggests. \"Taking the time to do this can help your body and brain de-stress and recover better from all your hard work at the gym and the office.\""
+    },
+    {
+        "name" : "Work It from Every Angle",
+        "image" : "28WorkItromEveryAngle",
+        "rate" : 5,
+        "description" : "Most traditional fitness plans happen in predictable patterns that usually involve moving in two planes of motion—up and down or forward and backward—ignoring the third plane of motion, lateral. \"Move your body in all directions to create the most fit, functional, and athletic physique,\" Stokes says. If you're a runner, cyclist, or walker, remember to include movements such as jumping jacks, side shuffles, side lunges, and carioca (the grapevine-like move) in your warm-up or cool-down, she suggests."
+    },
+    {
+        "name" : "Muscle Over Mind",
+        "image" : "29MuscleOverMind",
+        "rate" : 5,
+        "description" : "If you usually head to the gym after work, take heed: Mental exhaustion can make you feel physically exhausted, even when you have plenty of energy, reports a Medicine & Science in Sports & Exercise study. When people played a brain-draining computer game before exercising, they reported a subsequent workout as being harder, yet their muscles showed the same activity as they did doing the same workout after an easy mental game. So if you think you can’t eke out those last 10 minutes on the rowing machine, remember: You can! [Tweet this motivation!]."
+    },
+    {
+        "name" : "Roll With It",
+        "image" : "30RollWitIt",
+        "rate" : 4.5,
+        "description" : "Also known as “myofascial release,” foam rolling is an easy way to benefit your entire body. “While stretching addresses the length of muscle fiber, rolling improves the quality of the tissue,” says Rob Sulaver, CEO and founder of Bandana Training. This leads to tension- and pain-free muscles, which function better so you perform better. Be sure to roll for five minutes before your workout."
+    },
+    {
+        "name" : "Be Picky About Dinner Dates",
+        "image" : "31AboutDinnerDates",
+        "rate" : 3.5,
+        "description" : "You know it's easier to fall off the healthy-eating wagon when the person across the table from you is going whole-hog on mozzarella sticks, but science still felt the need to study this. And evidence presented at the 2013 Agricultural and Applied Economic Associations annual meeting backs you up: In the study, people made similar dining choices as their companions did, possibly because we simply want to fit in. Not all eating partners make a bad influence, though. The report further speculates that if you're eating with a health-conscious person, you may be more likely to order something more nutritious as well."
+    },
+    {
+        "name" : "Consider Retail Therapy",
+        "image" : "32ConsiderTherapy",
+        "rate" : 4.5,
+        "description" : "\"Whenever I buy a new pair of athletic shoes, an enthusiasm comes over me. I’m eager to wear them,\" says celebrity trainer and New Balance fitness ambassador Holly Perkins. Follow her lead and occasionally buy new kicks or gym clothes if it helps revitalize your passion for the gym."
+    },
+    {
+        "name" : "Take 5 to Visualize",
+        "image" : "33Take5toVisualize",
+        "rate" : 4.5,
+        "description" : "Picture your perfect self with your flat abs, firmer butt, and slim thighs every day. Seeing really is believing: \"You become consciously and acutely aware of everything that can help you achieve the visualized outcome that you desire when you impress an idea into the subconscious part of you,\" says celebrity yoga coach Gwen Lawrence. \"It eventually becomes ‘fixed,’ and you automatically move toward that which you desire.\""
+    },
+    {
+        "name" : "Melt Fat on the Mat",
+        "image" : "34MeltFatontheMat",
+        "rate" : 5,
+        "description" : "Vinyasa and power may not be the only forms of yoga that will get you closer to that long, lean, limber look. Research presented at the 73rd Scientific Sessions of the American Diabetes Association found that restorative yoga—which focuses more on relaxing and stress-reducing movements rather than a challenging flow or balancing poses—burns more subcutaneous fat (the kind directly under your skin) than stretching does. By the end of the yearlong study, yogis who practiced at least once a month lost an average of about three pounds, nearly double the amount lost by those who only stretched. So if you don’t feel up for a more athletic yoga class, ease your way into a practice with a gentle one."
+    },
+    {
+        "name" : "Put Your Money Where Your Muscle Is",
+        "image" : "35PutYourMoney",
+        "rate" : 4,
+        "description" : "Although creating financial incentives to lose weight isn't a new idea, now we know cashing in to stay motivated works long-term. In the longest study yet on this topic, Mayo Clinic researchers weighed 100 people monthly for one year, offering half the group $20 per pound lost plus a $20 penalty for every pound gained. Those in the monetary group dropped an average of nine pounds by the end of the year, while non-paid participants shed about two pounds. If you’re ready to gamble away weight, consider sites such as Healthywage, FatBet, or stick."
+    },
+    {
+        "name" : "Finish Strong",
+        "image" : "36FinishStrong",
+        "rate" : 5,
+        "description" : "When you're in the homestretch of your workout, kick it up a notch. \"At the end of every longer or easy run or bike ride, pick up your pace for the last minute as you would do when you're finishing a race,\" Chiplin says. \"This adds minimal stress physiologically while creating a mindset of ending each run fast and strong.\""
+    },
+    {
+        "name" : "Reduce with Produce",
+        "image" : "37ReducewithProduce",
+        "rate" : 4,
+        "description" : "Adopting a plant-based diet could help tip the scales in your favor. A five-year study of 71,751 adults published in the Journal of the Academy of Nutrition and Dietetics found that vegetarians tend to be slimmer than meat-eaters even though both groups eat about the same number of calories daily. Researchers say it may be because carnivores consume more fatty acids and fewer weight-loss promoting nutrients, like fiber, than herbivores do. Go green to find out if it works for you."
+    },
+    {
+        "name" : "Compress Forward",
+        "image" : "38CompressForward",
+        "rate" : 4.5,
+        "description" : "When layering for an outdoor activity this winter, consider a compression fabric for your base layers. “These fabrics are fantastic at wicking moisture from the body, which allows you to sweat and breath while keeping you warm,” says Chiplin, who notes they can also reduce fatigue and muscle soreness so you’re ready to head out again tomorrow. Consider throwing them in the dryer for a minute before dressing to further chase away the morning chill."
+    }
+]}

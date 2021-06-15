@@ -1,0 +1,128 @@
+{"food" : [
+    {
+        "name" : "Thai Fried Prawn & Pineapple Rice",
+        "image" : "1ThaiFried",
+        "rate" : 4,
+        "description" : "This quick, low calorie supper is perfect for a busy weeknight. Cook your rice in advance to get ahead - run it under cold water to chill quickly, then freeze in a food bag for up to one month. Heat the oil in a wok or non-stick frying pan and fry the spring onion whites for 2 mins until softened. Stir in the pepper for 1 min, followed by the pineapple for 1 min more, then stir in the green curry paste and soy sauce. Add the rice, stir-frying until piping hot, then push the rice to one side of the pan and scramble the eggs on the other side. Stir the peas, bamboo shoots and prawns into the rice and eggs, then heat through for 2 mins until the prawns are hot and the peas tender. Finally, stir in the spring onion greens, lime juice and coriander, if using. Spoon into bowls and serve with extra lime wedges and soy sauce." 
+    },
+    {
+        "name" : "Asparagus & New Potato Frittata",
+        "image" : "2Asparagus",
+        "rate" : 5,
+        "description" : "A simple, low-calorie spring main that uses the season's finest ingredients and is ready in just 20 minutes. Heat the grill to high. Put the potatoes in a pan of cold salted water and bring to the boil. Once boiling, cook for 4-5 mins until nearly tender, then add the asparagus for a final 1 min. Drain. Meanwhile, heat the oil in an ovenproof frying pan and add the onion. Cook for about 8 mins until softened. Mix the eggs with half the cheese in a jug and season well. Pour over the onion in the pan, then scatter over the asparagus and potatoes. Top with the remaining cheese and put under the grill for 5 mins or until golden and cooked through. Cut into wedges and serve from the pan with salad." 
+    },
+    {
+        "name" : "Simple Fish Stew",
+        "image" : "3Simplefish",
+        "rate" : 5,
+        "description" : "This quick and healthy one-pot is packed with white fish fillets, king prawns, a rich tomato sauce and enough veg for 3 of your 5 a day. Heat the oil in a large pan, add the fennel seeds, carrots, celery and garlic, and cook for 5 mins until starting to soften. Tip in the leeks, tomatoes and stock, season and bring to the boil, then cover and simmer for 15-20 mins until the vegetables are tender and the sauce has thickened and reduced slightly. Add the fish, scatter over the prawns and cook for 2 mins more until lightly cooked. Ladle into bowls and serve with a spoon." 
+    },
+    {
+        "name" : "Greek Courgetti Salad",
+        "image" : "4Greekcourgetti",
+        "rate" : 4.5,
+        "description" : "Grab a pack of courgetti or spiralize your own for a simple vegetarian supper. Slice the cucumber on the diagonal and crumble the feta. Combine all the ingredients in a bowl with a little extra virgin olive oil and some seasoning, then divide between plates." 
+    },
+    {
+        "name" : "Asian Pulled Chicken Salad",
+        "image" : "5Asian pulledchicken",
+        "rate" : 5,
+        "description" : "Pull apart a ready-roasted chicken to whip up this healthy, vibrant, low-calorie dish in just 20 minutes. Combine the dressing ingredients in a small bowl and set aside. Remove all the meat from the chicken, shred into large chunks and pop in a large bowl. Add the cabbage, carrots, spring onions, chillies and half the coriander. Toss together with the dressing and pile onto a serving plate, then scatter over the remaining coriander and peanuts." 
+    },
+    {
+        "name" : "Spiced Black Bean & Chicken Soup with Kale",
+        "image" : "6Spicedblack beanchicken",
+        "rate" : 5,
+        "description" : "Use up leftover roast or ready-cooked chicken in this healthy and warming South-American style soup, spiced up with cumin and chilli. Heat the oil in a large saucepan, add the garlic, coriander stalks and lime zest, then fry for 2 mins until fragrant. Stir in the cumin and chilli flakes, fry for 1 min more, then tip in the tomatoes, beans and stock. Bring to the boil, then crush the beans against the bottom of the pan a few times using a potato masher. This will thicken the soup a little. Stir the kale into the soup, simmer for 5 mins or until tender, then tear in the chicken and let it heat through. Season to taste with salt, pepper and juice from half the lime, then serve in shallow bowls, scattered with the feta and a few coriander leaves. Serve the remaining lime in wedges for the table, with the toasted tortillas on the side. The longer you leave the chicken in the pan, the thicker the soup will become, so add a splash more stock if you can’t serve the soup straight away." 
+    },
+    {
+        "name" : "One-Pan Egg & Veg Brunch",
+        "image" : "7One0paneggvegbrunch",
+        "rate" : 4.5,
+        "description" : "With courgette, peppers and eggs, this vegetarian dish is a filling, healthy breakfast for all the family – kids will enjoy dipping toast into soft egg yolk. Boil the new potatoes for 8 mins, then drain. Heat the oil and butter in a large non-stick frying pan, then add the courgette, peppers, potatoes and a little salt and pepper. Cook for 10 mins, stirring from time to time until everything is starting to brown. Add the spring onions, garlic and thyme and cook for 2 mins more. Make four spaces in the pan and crack in the eggs. Cover with foil or a lid and cook for around 4 mins, or until the eggs are cooked (with the yolks soft for dipping into). Sprinkle with more thyme leaves and ground black pepper if you like. Serve with toast." 
+    },
+    {
+        "name" : "Mushroom Brunch",
+        "image" : "8Mushroombrunch",
+        "rate" : 5,
+        "description" : "You only need mushrooms, eggs, kale and garlic to cook this tasty one pan brunch. It's comforting yet healthy, low-calorie and gluten-free too. Slice the mushrooms and crush the garlic clove. Heat the olive oil in a large non-stick frying pan, then fry the garlic over a low heat for 1 min. Add the mushrooms and cook until soft. Then, add the kale. If the kale won’t all fit in the pan, add half and stir until wilted, then add the rest. Once all the kale is wilted, season. Now crack in the eggs and keep them cooking gently for 2-3 mins. Then, cover with the lid to for a further 2-3 mins or until the eggs are cooked to your liking. Serve with bread." 
+    },
+    {
+        "name" : "Chicken & Vegetable Curry",
+        "image" : "9Chickenvegetablecurry",
+        "rate" : 4.5,
+        "description" : "This Indian feast has a healthy vegetable count and is a really simple everyday supper. Mix together 75g of the yogurt with 1 tbsp of the spice mix and some seasoning. Add the chicken and leave to marinate for at least 15 mins or up to overnight in the fridge. Heat the remaining spices, the onion and a good splash of water, and soften for 5 mins, stirring often. Tip in the pepper chunks and passata, and simmer while you cook the chicken. Heat the grill to High, remove the chicken from the marinade and shake off any excess. Grill under a high heat until starting to char at the edges. Tip the rice and peas into a pan with a splash of water and heat through. Stir most of the coriander into the sauce. Serve the rice alongside the chicken and sauce, scattered with the remaining coriander and the remaining yogurt on the side." 
+    },
+    {
+        "name" : "Smoked Mackerel with Orange, Watercress & Potato Salad",
+        "image" : "10Smokedmackelwithorangewatercress",
+        "rate" : 5,
+        "description" : "This zesty springtime dish is perfect for lunch or a light supper. Whisk together the sherry or wine vinegar, mustard and oil with some seasoning. Boil the potatoes in salted water until easily pierced with a knife, about 10 mins. Toss in a bowl with threequarters of the dressing and onion slices, then leave to cool a little. Cut the peel and pith from the orange, then cut into thick slices. Toss the watercress into the salad, then divide between 2 plates and top with the oranges, fish and the remaining dressing."
+    },
+    {
+        "name" : "Crunchy Detox Salad",
+        "image" : "11Crunchydetoxsalad",
+        "rate" : 4,
+        "description" : "This low-fat salad is full of vibrant colours, textures and flavours. Makes for a great lunchbox or light supper. Blanch the broccoli in a pan of boiling water for 1 min. Drain and quickly cool under cold running water, then pat dry with kitchen paper. Put in a bowl with the apricots, broccoli, red cabbage, chickpeas and sunflower seeds. Put the onion and ginger in a bowl with the orange juice, vinegar and oil. Mix well. Leave for 5 mins to soften the onion, then add to the salad and thoroughly toss everything together."
+    },
+    {
+        "name" : "Mumbai Potato Wraps with Minted Yogurt Relish",
+        "image" : "12Mumbaipotatowraps",
+        "rate" : 5,
+        "description" : "This help-yourself veggie supper is full of fresh flavours and low-fat too. Heat the sunflower oil in a large saucepan and fry the onion for 6-8 mins until golden and soft. Stir in 1½ tbsp curry powder, cook for 30 secs, then add the tomatoes and seasoning. Simmer, uncovered, for 15 mins. Meanwhile, add the potatoes and ½ tbsp curry powder to a pan of boiling salted water. Cook for 6-8 mins until just tender. Drain, reserving 100ml of the liquid. Add the drained potatoes and reserved liquid to the tomato sauce along with the mango chutney. Heat through. Meanwhile, mix together the yogurt and mint sauce, and warm the chapattis following pack instructions. To serve, spoon some of the potatoes onto a chapatti and top with a few sprigs of coriander. Drizzle with the minted yogurt relish, adding extra mango chutney if you wish, then roll up and eat."
+    },
+    {
+        "name" : "Overnight Oats",
+        "image" : "13Overnightoats",
+        "rate" : 4.5,
+        "description" : "Adapt this recipe for easy overnight oats to suit your tastes. You can add dried fruit, seeds and nuts, grated apple or pear, or chopped tropical fruits. The night before serving, stir the cinnamon and 100ml water (or milk) into your oats (50g) with a pinch of salt. The next day, loosen with a little more water (or milk) if needed. Top with the yogurt (2tbsp), berries (50g), a drizzle of honey and the nut butter."
+    },
+    {
+        "name" : "Fruit & Nut Breakfast Bowl",
+        "image" : "14Fruitnutbreakfastbowl",
+        "rate" : 5,
+        "description" : "Top cheap and healthy porridge oats with chopped fresh oranges, Greek yogurt and a sprinkling of dried fruit, nuts and seeds. Put the oats (6tbsp) in a non-stick pan with 400ml water and cook over the heat, stirring occasionally for about 4 mins until thickened. Meanwhile, cut the peel and pith from the oranges(2 oranges) then slice them in half, cutting down either side, as closely as you can, to where the stalk would be as this will remove quite a tough section of the membrane. Now just chop the oranges. Pour the porridge into bowls, spoon on the yogurt then pile on the oranges and the fruit, nut and seed mixture (60g pot raisins, nut, goji berries and seeds)."
+    },
+    {
+        "name" : "Summer Porridge",
+        "image" : "15Summerporridge",
+        "rate" : 4,
+        "description" : "A healthy, summery vegan porridge with jumbo oats and bright pink pomegranate seeds. In a blender, blitz the milk (300ml almond milk), blueberries (200g) and maple syrup (½ tbsp.) until the milk turns purple. Put the chia (2 tbsp chia seeds) and oats (100g jumbo oats) in a mixing bowl, pour in the blueberry milk and stir very well. Leave to soak for 5 mins, stirring occasionally, until the liquid has absorbed, and the oats and chia thicken and swell. Stir again, then divide between two bowls. Arrange the fruit (1 kiwi fruit cut into slices) on top, then sprinkle over the mixed seeds (2 tsp mixed seeds). Will keep in the fridge for 1 day. Add the toppings just before serving."
+    },
+    {
+        "name" : "Salmon Sushi Salad",
+        "image" : "16Salmonsushisalad",
+        "rate" : 5,
+        "description" : "A light lunch or dinner, this salmon salad is a homemade version of your favourite sushi platter, with edamame beans, avocado and pomegranate seeds. Rinse the sushi rice (100g sushi rice) really well and put in a small saucepan covered with 200ml cold water. Bring to the boil, then simmer for 10 mins with the lid on. Remove from the heat and keep the lid on for 15 mins before transferring to a serving bowl. Meanwhile, pour boiling water over the edamame and leave to defrost until the rice is cooked. To make the dressing, combine all the ingredients, then set aside. Heat the sesame oil in a non-stick pan and add the nori. Cook for 1-2 mins on a medium heat until crisp. To assemble the salad, drain the edamame, then tip onto the rice along with the pomegranate seeds and salmon. (50g smoked salmon, cut into bite-sized slices). Fan out the avocado slices on top and sprinkle over the black sesame seeds (1 tsp black sesame seeds). Drizzle over the dressing and top with slices of sushi ginger, if you like."
+    },
+    {
+        "name" : "Walnut & Almond Muesli with Grated Apple",
+        "image" : "17Walnutalmond",
+        "rate" : 4.5,
+        "description" : "Prepare your own delicious homemade cereal that is nutritionally-dense, naturally sweetened and super satisfying thanks to the healthy fats from nuts and seeds. Put the porridge oats (85g porridge oats) in a saucepan and heat gently, stirring frequently until they’re just starting to toast. Turn off the heat, then add all of the nuts (15g walnut/almond), pumpkin seeds(15g), and cinnamon (1tsp), then stir everything together well. Tip into a large bowl, stir to help it cool, then add the raisins (80g) and puffed wheat (15g) and toss together until well mixed. Tip half into a jar or airtight container and save for another day – it will keep at room temperature. Serve the rest in two bowls, grate over 2 apples and pour over some cold milk (use nut milk if you’re vegan) at the table. Save the other apples for the remaining muesli."
+    },
+    {
+        "name" : "Warming Chocolate & Banana Porridge",
+        "image" : "18Warmingchocoateporridge",
+        "rate" : 5,
+        "description" : "Cocoa and vanilla add a luxurious flavor to this healthy breakfast, naturally sweetened with banana. Soak the oats overnight for a super creamy texture. Put the oats, cocoa and vanilla in a large bowl and pour over 800ml – 1 litre cold water (depending how thick you like your porridge). Cover the bowl and leave to soak overnight. The next morning, tip the contents into a saucepan with the chopped banana (4 bananas, 2 chopped). Cook over a medium heat for 5 mins, stirring frequently, until the oats are cooked. Put half of the mixture in the fridge for the next day. Spoon the rest into two bowls, swirl in 1 pot yogurt and slice over a banana (save the other pot and banana for the next morning). Warm through with a splash of milk to reheat."
+    },
+    {
+        "name" : "Quinoa Porridge",
+        "image" : "19Quinoaporridge",
+        "rate" : 3.5,
+        "description" : "Supercharge your morning with high-protein quinoa and omega-3 rich chia seeds for a creamy breakfast bowl topped with seasonal fruit. Activate the quinoa by soaking overnight in cold water. The next day, drain and rinse the quinoa (175g quinoa) through a fine sieve (the grains are so small that they will wash through a coarse one). Tip the quinoa into a pan and add the vanilla (½ vanilla pod, split and seeds scraped out, or ½ tsp vanilla extract), creamed coconut (15g creamed coconut) and 600ml water. Cover the pan and simmer for 20 mins. Stir in the chia (4tbsp chia seeds) with another 300ml water and cook gently for 3 mins more. Stir in the pot of coconut yogurt (125g coconut yogurt). Spoon half the porridge into a bowl for another day. Will keep for 2 days covered in the fridge. Serve the remaining porridge topped with another pot of yogurt (125g pot coconut yogurt), the berries and almonds (280g mixed summer berries, such as strawberries, raspberries and blueberries and 2tbsp flaked almonds), if you like. To have the porridge another day, tip into a pan and reheat gently, with milk or water. Top with fruit - for instance, orange slices and pomegranate seeds."
+    },
+    {
+        "name" : "Baked Banana Porridge",
+        "image" : "20akedbananaporridge",
+        "rate" : 4.5,
+        "description" : "Start the day right with this healthy baked banana porridge containing walnuts, banana and cinnamon. It's a filling breakfast that will keep you going until lunch. Heat oven to 190C/170C fan/gas 5. Mash up one banana half (2 small bananas, halved lengthways), then mix it with the oats (100g jumbo porridge oats), cinnamon (¼ tsp cinnamon), milk (150ml milk of your choice, plus extra to serve), 300ml water and a pinch of salt, and pour into a baking dish. Top with the remaining banana halves and scatter over the walnuts (4 walnuts, roughly chopped). Bake for 20-25 mins until the oats are creamy and have absorbed most of the liquid."
+    },
+    {
+        "name" : "Poached Eggs with Smashed Avocado & Tomatoes",
+        "image" : "21Poached",
+        "rate" : 5,
+        "description" : "Keep yourself full until lunchtime with this healthy breakfast boost. Delicious avocado serves as a butter alternative and goes well with a runny poached egg. Heat a non-stick frying pan, very lightly brush the cut surface of the tomatoes (2 tomatoes, halved) with a little oil (½ tsp rapeseed oil), then cook them, cut-side down, in the pan until they have softened and slightly caramelised. Meanwhile, heat a pan of water, carefully break in the eggs (2 eggs) and leave to poach for 1-2 mins until the whites are firm but the yolks are still runny. Halve and stone the avocado (1 small ripe avocado), then scoop out the flesh and smash onto the bread (2 slices seeded wholemeal soda bread (see goes well with). Add the eggs, grind over black pepper and add a handful of rocket (2 handfuls rockets) to each portion. Serve the tomatoes on the side."
+    }
+]}
